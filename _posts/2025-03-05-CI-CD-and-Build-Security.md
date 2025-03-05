@@ -1,3 +1,14 @@
+---
+title: "CI/CD and Build Security"
+date: 2025-03-04 10:00:00 +0000
+categories: [WriteUps, TryHackMe]
+tags: [ci/cd, build security, pipeline security, devsecops, tryhackme]
+author: "JT"
+pin: false
+toc: true
+comments: true
+---
+
 Welcome to my write up on TryHackMe's CI/CD and Build Security room. 
 ## Important Notes
 
