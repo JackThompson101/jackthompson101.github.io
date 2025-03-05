@@ -53,7 +53,7 @@ vim php.ini
 sudo service apache2 restart
 ```
 ## Task 1
-### Part 1 
+### 1A
 Let's start by logging in and seeing what we have available to us
 
 ![Alt Text](/assets/images/SeedsSQLImgs/Pasted image 20250228144148.png)
@@ -76,7 +76,7 @@ mysql -u root -pseedubuntu
 use Users;
 showtables
 ```
-### Part 2
+### 1B
 Let's inject some SQL to get all values form the credentials table.
 
 ![Alt Text](/assets/images/SeedsSQLImgs/Pasted image 20250228144140.png)
@@ -88,7 +88,7 @@ Using a always true statement like `1=1` will return everything, thereby essenti
 ```sql
 SELECT * FROM credential WHERE eid = '' or 1=1;--
 ```
-### Part 3 
+### 1C
 Now we do not know the EID but we do know the name. 
 
 ![Alt Text](/assets/images/SeedsSQLImgs/Pasted image 20250228144207.png)
