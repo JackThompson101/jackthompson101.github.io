@@ -1,6 +1,6 @@
 ---
 title: "SEED Lab: Buffer Overflow"
-date: 2025-02-28 10:00:00 +0000
+date: 2025-02-20 10:00:00 +0000
 categories: [WriteUps, SeedLab]
 tags: [buffer overflow, seedlab]
 author: "JT"
