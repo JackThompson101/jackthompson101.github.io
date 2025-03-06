@@ -1,8 +1,8 @@
 ---
-title: "Seeds Lab: SQL Injection"
+title: "SEED Lab: SQL Injection"
 date: 2025-02-28 10:00:00 +0000
-categories: [WriteUps, SeedsLab]
-tags: [sql injection, seedslab]
+categories: [WriteUps, SeedLab]
+tags: [sql injection, seedlab]
 author: "JT"
 pin: false
 toc: true
