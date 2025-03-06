@@ -1,5 +1,5 @@
 ---
-title: "CI/CD and Build Security"
+title: "TryHackMe: CI/CD and Build Security"
 date: 2025-03-04 10:00:00 +0000
 categories: [WriteUps, TryHackMe]
 tags: [ci/cd, build security, pipeline security, devsecops, tryhackme]
