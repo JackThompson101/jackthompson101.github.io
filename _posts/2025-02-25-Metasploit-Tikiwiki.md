@@ -1,7 +1,7 @@
 ---
 title: "Metasploitable Tikiwiki"
 date: 2025-02-25 10:00:00 +0000
-categories: [Writeups, Labs]
+categories: [WriteUps, Labs]
 tags: [metasploit, tikiwiki, intrusion penetration]
 author: "JT"
 pin: false
