@@ -1,7 +1,7 @@
 ---
 title: "TryHackMe: CI/CD and Build Security"
 date: 2025-03-04 10:00:00 +0000
-categories: [WriteUps, TryHackMe]
+categories: [WriteUps, Labs, TryHackMe]
 tags: [ci/cd, build security, pipeline security, devsecops, tryhackme]
 author: "JT"
 pin: false
