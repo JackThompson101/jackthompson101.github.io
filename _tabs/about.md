@@ -11,9 +11,9 @@ I want to use this site as a way of documenting my work, explaining my lessons l
 
 I have done embedded research work on Android TV Boxes with Caesar Creek Software. We created a custom JTAG replay driver which was implemented on a custom PCB and resulted in complete take over of the TV Box and control through our C2 server. We also found some malware running on one of the boxes. You can check out the blog detailing our work here:
 
-[Part 1](https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/)
-[Part 2](https://www.cc-sw.com/set-top-box-re-6-part-series-2-of-6/)
-[Part 3](https://www.cc-sw.com/set-top-box-re-6-part-series-3-of-6/)
-[Part 4](https://www.cc-sw.com/set-top-box-re-6-part-series-4-of-6/)
-[Part 5](https://www.cc-sw.com/set-top-box-re-6-part-series-5-of-6/)
-[Part 6](https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/)
+[Part 1](https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/)<br>
+[Part 2](https://www.cc-sw.com/set-top-box-re-6-part-series-2-of-6/)<br>
+[Part 3](https://www.cc-sw.com/set-top-box-re-6-part-series-3-of-6/)<br>
+[Part 4](https://www.cc-sw.com/set-top-box-re-6-part-series-4-of-6/)<br>
+[Part 5](https://www.cc-sw.com/set-top-box-re-6-part-series-5-of-6/)<br>
+[Part 6](https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/)<br>
