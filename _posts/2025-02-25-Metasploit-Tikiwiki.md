@@ -1,5 +1,5 @@
 ---
-title: "Metasploitable Tikiwiki"
+title: "Metasploitable Tikiwiki Tutorial"
 date: 2025-02-25 10:00:00 +0000
 categories: [WriteUps, Labs]
 tags: [metasploit, tikiwiki, intrusion penetration]
